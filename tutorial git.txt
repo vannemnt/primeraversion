@@ -1,0 +1,26 @@
+Crear una carpeta
+dentro de la carpeta, click derecho y hacer git bash here
+dentro del editor de comando hacer:
+git clone https://github.com/vannemnt/Proyecto11.git
+cerrar el comando
+entrar a la carpeta que se clono del repo vacia.
+Adentro de esta carpeta copiar los archivos del proyecto.
+Adentro de esta carpeta hacer git bash here:
+
+Git push
+Git add .
+
+(se puede Obviar)
+
+Git status
+Git brach develop
+Git brach
+Git checkout develop
+
+
+
+Git push -u origin
+Git commit -a -m "cursos creados"
+Git push -u origin develop
+
+con estos pasos envio mi proyecto al repo remoto.
